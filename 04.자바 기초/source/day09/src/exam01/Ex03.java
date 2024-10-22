@@ -22,5 +22,9 @@ public class Ex03 {
         System.out.println(age);
         System.out.println(obj);
 
+        // 안녕하세요
+        // 반갑습니다
+        // 저는 곽경섭입니다.
+
     }
 }
